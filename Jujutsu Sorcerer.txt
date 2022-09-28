@@ -1,4 +1,5 @@
 This is a game where the creator scammed me out of my work, however here is some of what I got done that I recovered,
+(This was around 1 weeks work.)
 
 Game Link:
 https://www.roblox.com/games/10642856009/Jujutsu-Sorcery
@@ -13,10 +14,14 @@ Exploit Protection,
 and much more.
 
 Gui Example:
-https://cdn.discordapp.com/attachments/1007571731382276096/1023994142684086352/unknown.png
+https://cdn.discordapp.com/attachments/1007571731382276096/1023994142684086352/unknown.png (Stats Box)
+https://cdn.discordapp.com/attachments/1014776291188285521/1023994898044698725/unknown.png (Stats in game)
+https://cdn.discordapp.com/attachments/1014776291188285521/1023992868014145607/unknown.png (Text Box)
 
 My animations / Effects example:
-https://cdn.discordapp.com/attachments/1007571731382276096/1023780739046715462/2022-09-25_22-18-45.mp4
+https://cdn.discordapp.com/attachments/1007571731382276096/1023780739046715462/2022-09-25_22-18-45.mp4 (Aura)
+https://cdn.discordapp.com/attachments/1014776291188285521/1023793122372767774/2022-09-25_23-07-53.mp4 (Rapid Fire Explosion Ability)
+
 
 Some gameplay footage:
 https://youtu.be/p13wRVDcpaU (outdated "Aura" effects, see animations / effects for a more recent example)
